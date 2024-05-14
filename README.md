@@ -25,5 +25,5 @@ eliander-franco-1a3b66193)
 ![Comunicativo](https://img.shields.io/badge/Comunicativo-black)
 ![Proativo](https://img.shields.io/badge/Proativo-darkblue)
 
-## GitHub Status
+
 
